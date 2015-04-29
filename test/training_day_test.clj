@@ -1,5 +1,4 @@
-(ns training-day-test
-;  (:use iloveponies.tests.training-day))
+(ns training-day-test)
 
 (ns iloveponies.tests.training-day
   (:use midje.sweet
